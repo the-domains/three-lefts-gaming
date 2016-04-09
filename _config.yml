@@ -1,0 +1,28 @@
+name: Three Lefts Gaming
+favicon: null
+layout_spectrum: 0.19895283901132643
+typography_spectrum: 0.02554134768433869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3237503182608634
+  lightness: 0.1425002699252218
+  saturation: 0.12197669432498515
+  rhythmicContrast: 0.04112786869518459
+purpose: []
