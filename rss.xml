@@ -4,7 +4,7 @@
         <description><![CDATA[Three Lefts Interplanetary]]></description>
         <link>https://thegrid.ai/three-lefts-gaming/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 02:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 02:18:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/three-lefts-gaming/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/three-lefts-gaming/f7183c82-0bbe-4f73-afa9-444d7ee6a8da/index.html</link>
             <guid isPermaLink="false">f7183c82-0bbe-4f73-afa9-444d7ee6a8da</guid>
             <pubDate>Sat, 09 Apr 2016 01:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is Another Post</p>]]></description>
-            <link>https://thegrid.ai/three-lefts-gaming/b3ec5067-f8af-46d1-b118-5a7c4e977e41/index.html</link>
-            <guid isPermaLink="false">b3ec5067-f8af-46d1-b118-5a7c4e977e41</guid>
-            <pubDate>Sat, 09 Apr 2016 01:58:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
