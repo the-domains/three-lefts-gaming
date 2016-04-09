@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://robertsspaceindustries.com'
-  name: Roberts Space Industries
-  favicon: 'https://robertsspaceindustries.com/favicon.ico'
-  domain: robertsspaceindustries.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://robertsspaceindustries.com/'
+inLanguage: en
+starred: false
 keywords:
   - citizen
   - imperium
@@ -18,19 +17,22 @@ keywords:
   - ptu
   - ship
 description: Store All Items Ships Game Packages Ship Upgrades Merchandise Subscriptions Extras Event Tickets Voyager Direct Electronic Access Game Credits Referral Program Fly now
-inLanguage: en
+datePublished: '2016-04-09T02:16:45.043Z'
+dateModified: '2016-04-09T02:16:19.490Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://robertsspaceindustries.com/'
 title: Roberts Space Industries
-datePublished: '2016-04-09T02:10:38.747Z'
-dateModified: '2016-04-09T02:07:56.816Z'
 sourcePath: _posts/2016-04-09-roberts-space-industries.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Roberts Space Industries
+  domain: robertsspaceindustries.com
+  url: 'https://robertsspaceindustries.com'
+  favicon: 'https://robertsspaceindustries.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Roberts Space Industries</h1><p>Store All Items Ships Game Packages Ship Upgrades Merchandise Subscriptions Extras Event Tickets Voyager Direct Electronic Access Game Credits Referral Program Fly now</p><img src="https://robertsspaceindustries.com/rsi/static/images/RSI-logo-fb.jpg" /></article>
+<article style=""><h1>Roberts Space Industries</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d875a69317ed1b8259d6561e353fa56dadd2b654.jpg" /></article>
